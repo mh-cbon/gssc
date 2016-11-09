@@ -1,6 +1,7 @@
 package gssc_test
 
 import (
+	"crypto/tls"
 	"github.com/mh-cbon/gssc"
 	"net/http"
 	"time"
