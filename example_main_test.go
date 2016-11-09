@@ -3,7 +3,7 @@ package gssc_test
 import (
 	"github.com/mh-cbon/gssc"
 	"net/http"
-  "time"
+	"time"
 )
 
 var port = ":8080"
