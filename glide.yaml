@@ -1,0 +1,4 @@
+package: github.com/mh-cbon/gssc
+import:
+- package: github.com/pkg/errors
+  version: ^0.8.0
